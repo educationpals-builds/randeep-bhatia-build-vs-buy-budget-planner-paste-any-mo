@@ -1,0 +1,1 @@
+Your run compiles into the live planner and a public repo under your name. The planner carries your calibration, so a stranger gets your judgment about spend, not a generic rubric. Verification runs before anything ships.
